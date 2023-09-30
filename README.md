@@ -7,7 +7,8 @@ Users should be able to:
 
 ### Screenshot
 
-<img width="1920" alt="Screenshot" src="">
+![Screenshot](https://github.com/faizalap14/Netflix-Signin-Clone/assets/115767098/7dac1e7c-3830-4c6c-8427-52fb76161a0d)
+
 
 
 ## My process
